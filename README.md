@@ -1,4 +1,4 @@
-# django-whois-jsonRespons
+# django-whois-jsonResponse
 a simple, lightweight view written in python django to check whois
 
 
