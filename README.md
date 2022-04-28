@@ -24,6 +24,9 @@ there is responses based on blow syntax:
     }
    
    results:
+   
    "True" if domain is available
+   
    "False" if domain is not available
+   
    "socket" if backend encounters an socket error
