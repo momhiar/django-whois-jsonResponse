@@ -18,10 +18,10 @@ request method: POST method no csrf needed with a json body with blow syntax:
 
 there is responses based on blow syntax:
 
-   {
+    {
      "result": "{result}",
      "domain": "YOUR_DESIRED_DOMAIN_NAME.tld"
-   }
+    }
    
    results:
    "True" if domain is available
