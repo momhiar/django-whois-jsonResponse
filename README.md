@@ -29,4 +29,4 @@ there is responses based on blow syntax:
    
    "False" if domain is not available
    
-   "socket" if backend encounters an socket error
+   "socket" if backend encounters an error
