@@ -4,7 +4,7 @@ a simple, lightweight view written in python django to check whois
 
 
 really simple and useful when you wanna create a Domain availability check with json
-it uses POST method and simply redirects GET requests to a address you want, check views.py
+it uses POST method and simply redirects GET requests to an address you want, check views.py
 
 NOTE: .ir domains have an issue : if you encounter an error it results True anyway.
 
